@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @M-debug-pixel
-- 👀 I’m interested in ...hacking 
-- 🌱 I’m currently learning ...hacking
-- 💞️ I’m looking to collaborate on ...vs code online
-- 📫 How to reach me ...
+- 👋 Hi, I’m @M-debug-pixel A.K.A Mujtaba Ali 
+- 👀 I’m interested in ...Developing serious stuff
+- 🌱 I’m currently learning ...Erp Building software
+- 💞️ I’m looking to collaborate on ...Instagram @Sye_dmujtaba
+- 📫 How to reach me ...mmqwerty2224@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 
 <!---
 M-debug-pixel/M-debug-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
